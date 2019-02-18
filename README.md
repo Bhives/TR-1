@@ -14,5 +14,5 @@ Currently working at LLC ByTechService as a service person (over 2 years). My ma
   
 # Personal interests:
 
-  Most of my free time I like to spend by watching movies, playing video-games, reading books. Sometimes like to walk around in Minsk, rarely to travel far away, exploring new towns and cities, new edges. Big fan of Star Wars universe.
-  
+  Most of my free time I like to spend by watching movies, playing video-games, reading books. Most of their genres are speculative fiction, adventures and war history. Big fan of Star Wars universe.
+  Sometimes like to walk around in my city, exploring new places. Rarely prefer to travel far away, exploring new towns and cities, new edges.
