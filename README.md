@@ -4,7 +4,7 @@
 ## About me
 
 Studied and graduated from Minsk Radioengineering College, with a degree "Information Technologies' Software" in 2017. Currently studying in the Belarusian State University of Informatics and Radioelectronics at the faculty of computer technologies (part-time education).
-Currently working at LLC ByTechService as a service person (over 2 years). My major task there is a tech support of the electronic payment systems.
+Currently working at LLC "ByTechService" as a service person (over 2 years). My major task there is a tech support of the electronic payment systems.
 
 ## Skills and abilities:
 
