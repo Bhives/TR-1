@@ -8,7 +8,7 @@ Currently working at LLC ByTechService as a service person (over 2 years). My ma
 # Skills and abilities:
 
   - C++/C# developing: over 2-year practice at the college/university. The most complicated project - game "Battle City";
-  - web-developing with PHP, CSS, JavaScript and HTML: over 1-year practice at the college. Had been developing an online store for my    gaduation project;
+  - web-developing with PHP, CSS, JavaScript and HTML: over 1-year practice at the college. Had been developing an online store for my    graduation project;
   - practice in database creating and management with SQL-language (with such templates as MySQL and PHPMyAdmin) and using them with developed by me Windows applications and Web sites;
   - over 3 years of studying and creating graphic projects in such instruments as CorelDraw, AdobePhotoshop, AutoCAD, 3ds Max.
   
