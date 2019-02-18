@@ -1,5 +1,6 @@
 # Boris Garbuzov
 
+
 ## About me
 
 Studied and graduated from Minsk Radioengineering College, with a degree "Information Technologies' Software" in 2017. Currently studying in the Belarusian State University of Informatics and Radioelectronics at the faculty of computer technologies (part-time education).
