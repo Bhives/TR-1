@@ -4,19 +4,18 @@
 ## About me
 
 Studied and graduated from Minsk Radioengineering College, with a degree "Information Technologies' Software" in 2017. Currently studying in the Belarusian State University of Informatics and Radioelectronics at the faculty of computer technologies (part-time education).
-Currently working at LLC "ByTechService" as a service person (over 2 years). My major task there is a tech support of the electronic payment systems.
+Currently working at LLC "ByTechService" as a service person (over 3 years). My major task there is a tech support of the electronic payment systems.
+Looking forward to realize and improve my developing skills by working in friendly, cooperative and skillful team. As for me, I am easily trainable, sociable and responcible person.
 
 ## Skills and abilities:
 
-  - C++/C# developing: over 2-year practice at the college/university. The most complicated project - game "Battle City";
-  - web-developing with PHP, CSS, JavaScript and HTML: over 1-year practice at the college. Had been developing an online store for my    graduation project;
-  - practice in database creating and management with SQL-language (with such templates as MySQL and PHPMyAdmin) and using them with developed by me Windows applications and Web sites;
-  - over 3 years of studying and creating graphic projects in such instruments as CorelDraw, AdobePhotoshop, AutoCAD, 3ds Max.
+  - over 1-year experience studying and practicing with Java: Java 8, Java Core, Collections API; also acquanted with Spring Boot Framework and Apache Maven; all my practice I did in Intellij Idea IDE;
+  - C# developing: over 2-year practice at the college/university;
+  - practice in database creating and management with SQL-language (with such templates as MySQL and PostgreSQL);
+  - have decent knowledge and practise with GIT version control and Jenkins CI;
+  - strong knowledge of English languge (B1).
+  
   
 ## Personal interests:
 
-  Most of my free time I like to spend by watching movies, playing video-games, reading books. Most of their genres are speculative fiction, adventures and war history. Big fan of Star Wars universe.
-  Sometimes like to walk around in my city, exploring new places. Rarely prefer to travel far away, exploring new towns and cities, new edges.
-
-
-URL to my CodeWars Profile: https://www.codewars.com/users/Bhives
+  Most of my free time I like to spend by watching movies, playing video-games, reading books. Most of their genres are speculative fiction, adventures and war history. Like very much to travel and explore new places.
