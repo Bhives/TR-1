@@ -9,7 +9,7 @@ Looking forward to realize and improve my developing skills by working in friend
 
 ## Skills and abilities:
 
-  - over 1-year experience studying and practicing with Java: Java 8, Java Core, Collections API; also acquanted with Spring Boot Framework and Apache Maven; all my practice I did in Intellij Idea IDE;
+  - over 1-year experience studying and practicing with Java (using Intellij Idea IDE): Java 8, Java Core, Collections API; also acquanted with Spring Boot Framework and Apache Maven;
   - C# developing: over 2-year practice at the college/university;
   - practice in database creating and management with SQL-language (with such templates as MySQL and PostgreSQL);
   - have decent knowledge and practise with GIT version control and Jenkins CI;
