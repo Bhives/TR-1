@@ -10,13 +10,13 @@ Looking forward to realize and improve my developing skills by working in friend
 
 ## Skills and abilities:
 
-  - over 1-year experience studying and practicing with Java (using Intellij Idea IDE): Java 8, Java Core, Collections API; also acquainted with Spring Boot Framework and Apache Maven;
-  - C# developing: over 2-year practice at the college/university;
+  - over 1-year experience studying and practicing with Java (using Intellij Idea IDE); acquainted with Spring Framework, ORM Hibernate and Apache Maven;
   - practice in database creating and management with SQL-language (with such templates as MySQL and PostgreSQL);
-  - have decent knowledge and practice with GIT version control and Jenkins CI;
-  - strong knowledge of English language (B1).
+  - have decent knowledge and practice with GIT version control, also acquainted with Jenkins CI.
   
   
-## Personal interests:
+## Additional information:
 
-  Most of my free time I like to spend by watching movies, playing video-games, reading books. Most of their genres are speculative fiction, adventures and war history. Like very much to travel and explore new places.
+  English language level: B1.
+  Have a certificate in Java course from the SoloLearn Community (https://www.sololearn.com/Certificate/1068-11690951/pdf/).
+
